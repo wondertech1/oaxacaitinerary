@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F5F0E6;
+  --foreground: #3B3228;
+  --barro: #A0522D;
+  --anil: #2C3E6B;
+  --copal: #3B3228;
+  --nopal: #5B7C52;
+  --mezcal: #C9944A;
+  --lana: #F5F0E6;
+  --lana-dark: #E8E0D0;
+  --barro-light: #F5E6DA;
+  --anil-light: #E4E8F0;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-barro: var(--barro);
+  --color-barro-light: var(--barro-light);
+  --color-anil: var(--anil);
+  --color-anil-light: var(--anil-light);
+  --color-copal: var(--copal);
+  --color-nopal: var(--nopal);
+  --color-mezcal: var(--mezcal);
+  --color-lana: var(--lana);
+  --color-lana-dark: var(--lana-dark);
+  --font-heading: var(--font-libre-baskerville);
+  --font-body: var(--font-karla);
+  --font-mono: var(--font-fira-code);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), Georgia, serif;
+}
+
+/* Loom weave texture background */
+.loom-texture {
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 3px,
+      var(--barro) 3px,
+      var(--barro) 3.5px,
+      transparent 3.5px,
+      transparent 6px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 3px,
+      var(--anil) 3px,
+      var(--anil) 3.5px,
+      transparent 3.5px,
+      transparent 6px
+    );
+  background-size: 6px 6px;
+  opacity: 0.035;
+}
+
+/* Diagonal weave for cards */
+.weave-diagonal {
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 4px,
+    var(--barro) 4px,
+    var(--barro) 4.5px,
+    transparent 4.5px,
+    transparent 8px
+  );
+  background-size: 8px 8px;
+}
+
+/* Shuttle weave entrance — clip-path reveal left to right */
+@keyframes shuttle-weave {
+  from { clip-path: inset(0 100% 0 0); }
+  to { clip-path: inset(0 0% 0 0); }
+}
+
+/* Scroll indicator bounce */
+@keyframes shuttle-bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(6px); }
+}
+
+/* Zapotec diamond divider stagger */
+@keyframes diamond-fade {
+  from { opacity: 0; transform: scale(0.8); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* Copal smoke drift */
+@keyframes smoke-drift {
+  0% { opacity: 0.15; transform: translateY(0) scaleX(1); }
+  50% { opacity: 0.08; transform: translateY(-20px) scaleX(1.1); }
+  100% { opacity: 0.15; transform: translateY(0) scaleX(1); }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--lana); }
+::-webkit-scrollbar-thumb { background: var(--barro); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--anil); }
+
+/* Hide scrollbar utility */
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+.scrollbar-hide::-webkit-scrollbar { display: none; }
