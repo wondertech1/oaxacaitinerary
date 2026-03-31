@@ -75,7 +75,7 @@ export default function NightlifeGuidePage() {
                 not Canc&uacute;n nightclub culture. There are no velvet ropes,
                 no bottle service, no DJs playing EDM at 130 decibels. Oaxaca
                 after dark is intimate, musical, and deeply local &mdash; and
-                it&apos;s one of the best nights out in Mexico if you know where
+                it&apos;s a night out that feels nothing like the rest of Mexico, if you know where
                 to go.
               </p>
               <p>
@@ -193,7 +193,7 @@ export default function NightlifeGuidePage() {
                 address="Morelos 511, Centro"
                 hours="5 PM \u2013 1 AM daily"
                 priceRange="60\u2013200 MXN / pour"
-                description="The mezcaler\u00eda most people start with, and for good reason. In Situ carries dozens of producers from across the Oaxacan valleys, with an emphasis on small-batch artesanal labels. The staff genuinely know what they\u2019re pouring \u2014 tell them what flavors you like and they\u2019ll guide you through three or four pours that build on each other. No cocktails, no beer, no distractions. This is mezcal served the way it\u2019s meant to be: straight, in a jicara, with orange and sal de gusano on the side. The courtyard is small and fills up by 9 PM on weekends, so arrive early or be prepared to stand."
+                description="The mezcaler\u00eda most people start with, and for good reason. In Situ carries dozens of producers from across the Oaxacan valleys, with an emphasis on small-batch artesanal labels. The staff know their pours cold \u2014 tell them what flavors you like and they\u2019ll guide you through three or four pours that build on each other. No cocktails, no beer, no distractions. This is mezcal served the way it\u2019s meant to be: straight, in a jicara, with orange and sal de gusano on the side. The courtyard is small and fills up by 9 PM on weekends, so arrive early or be prepared to stand."
                 atmosphere={["Intimate", "Expert Staff", "No Cocktails"]}
                 bestFor="Serious mezcal exploration with knowledgeable guidance"
                 accentColor="mezcal"
@@ -257,7 +257,7 @@ export default function NightlifeGuidePage() {
 
           <ScrollReveal delay={0.05}>
             <p className="mt-4 text-base text-lana/50 leading-relaxed">
-              Oaxaca has one of the richest live music scenes in Mexico. On any
+              Oaxaca punches way above its size for live music. On any
               given night you can hear son istme&ntilde;o (the swinging, brassy
               folk music of the Isthmus of Tehuantepec), cumbia, son jarocho,
               jazz, or experimental fusions that defy category. The venues are

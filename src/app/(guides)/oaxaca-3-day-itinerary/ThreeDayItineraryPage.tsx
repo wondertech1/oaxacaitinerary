@@ -78,8 +78,8 @@ export default function ThreeDayItineraryPage() {
               <p>
                 This is the itinerary for a long weekend. Fly in Thursday
                 evening, leave Sunday night. You&apos;ll eat extraordinarily
-                well, see the essential sights, and leave with a genuine
-                understanding of the city.
+                well, see the essential sights, and leave knowing how the
+                city actually works.
               </p>
               <p className="text-sm text-copal/50 italic">
                 Only have a weekend?{" "}
@@ -183,8 +183,8 @@ export default function ThreeDayItineraryPage() {
           <ScrollReveal delay={0.15}>
             <TimeBlock time="2:00 PM – 5:00 PM" title="Santo Domingo & the Walk">
               <p>
-                <strong>Templo de Santo Domingo:</strong> Free. Stunning
-                400-year-old Baroque church, gold leaf interior. 20 minutes.
+                <strong>Templo de Santo Domingo:</strong> Free. 400-year-old
+                Baroque church with floor-to-ceiling gold leaf stucco. 20 minutes.
               </p>
               <p>
                 <strong>Jardín Etnobotánico:</strong>{" "}

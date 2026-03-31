@@ -15,7 +15,7 @@ const faqs = [
   {
     question: "Is a weekend enough for Oaxaca?",
     answer:
-      "A weekend gives you the city essentials — markets, food, mezcal, museums, and the beautiful Jalatlaco neighborhood. You won't have time for day trips like Monte Albán, but you'll eat incredibly well and leave with a genuine feel for the city. Most weekend visitors come back for a longer trip.",
+      "A weekend gives you the city essentials — markets, food, mezcal, museums, and the beautiful Jalatlaco neighborhood. You won't have time for day trips like Monte Albán, but you'll eat better than most week-long trips elsewhere, and you'll leave knowing the difference between espadín and tobalá. Most weekend visitors come back for a longer trip.",
   },
   {
     question: "Should I fly or bus from Mexico City?",
@@ -322,7 +322,7 @@ export default function TwoDayItineraryPage() {
                 <strong>Los Danzantes</strong> (Macedonio Alcalá 403): Order the{" "}
                 <strong>mole negro</strong>. Three days to make, 30+ ingredients
                 including chocolate. <strong>220–280 MXN</strong>. Tourist-priced
-                but genuinely excellent.
+                but the mole negro is worth every peso — complex, smoky, and nothing like what you get outside Oaxaca.
               </p>
               <p>
                 <strong>Budget alternative:</strong>{" "}

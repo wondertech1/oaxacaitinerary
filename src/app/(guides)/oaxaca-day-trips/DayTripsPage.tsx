@@ -76,9 +76,9 @@ export default function DayTripsPage() {
             <p className="text-base text-copal/70 leading-relaxed">
               Every Oaxaca blog post lists the same day trips in the same order and
               calls all of them &ldquo;must-see.&rdquo; They&rsquo;re not. Some of these
-              destinations are genuinely transformative — the kind of places that
-              make you rethink what you thought you knew about pre-Hispanic
-              civilizations and living craft traditions. Others are fine. Pleasant,
+              destinations will rewire your understanding of Mesoamerican history — places where
+              Zapotec engineering and living craft traditions force you to recalibrate
+              what you assumed about pre-Hispanic civilizations. Others are fine. Pleasant,
               even. But &ldquo;pleasant&rdquo; is not worth a four-hour round trip on
               a rutted mountain road when you could spend that time eating tlayudas
               at the Mercado de Abastos or watching a mezcal distillation in a
@@ -166,13 +166,13 @@ export default function DayTripsPage() {
               <DayTripCard
                 name="Monte Albán"
                 tagline="Ancient Zapotec capital on a flattened mountaintop"
-                description="The Zapotecs leveled an entire mountain summit around 500 BCE and built a ceremonial center that dominated the valley for over a thousand years. The scale is staggering — the Grand Plaza alone is larger than two football fields. You'll see the Danzantes carvings (actually depictions of sacrificed captives), the astronomical Observatory, and panoramic views of the entire valley. The on-site museum is small but well-curated. Go early morning when fog lifts off the platforms — it's genuinely atmospheric. The colectivo from Calle Trujano takes 30 minutes and drops you at the parking lot. Buy your ticket at the booth, not from anyone approaching you in the lot."
+                description="The Zapotecs leveled an entire mountain summit around 500 BCE and built a ceremonial center that dominated the valley for over a thousand years. The scale is staggering — the Grand Plaza alone is larger than two football fields. You'll see the Danzantes carvings (actually depictions of sacrificed captives), the astronomical Observatory, and panoramic views of the entire valley. The on-site museum is small but well-curated. Go early morning when fog lifts off the platforms — it's eerie and beautiful in a way photos don't capture. The colectivo from Calle Trujano takes 30 minutes and drops you at the parking lot. Buy your ticket at the booth, not from anyone approaching you in the lot."
                 distance="9 km"
                 timeNeeded="3-4 hours"
                 transport="Colectivo 80 MXN RT"
                 cost={<>90 MXN entry (<a href="https://www.inah.gob.mx" target="_blank" rel="noopener" className="text-barro underline">INAH</a>)</>}
                 verdict="worth-it"
-                verdictNote="The single most important archaeological site in the Oaxaca Valley and one of the most significant in all of Mesoamerica. Even if you're not into ruins, the mountain-top setting alone justifies the half-day. Go before 10am to beat tour buses."
+                verdictNote="The single most important archaeological site in the Oaxaca Valley and the oldest known city in the Oaxaca Valley, predating Teotihuacán's peak by centuries. Even if you're not into ruins, the mountain-top setting alone justifies the half-day. Go before 10am to beat tour buses."
                 accentColor="nopal"
               />
             </div>
@@ -297,13 +297,13 @@ export default function DayTripsPage() {
               <DayTripCard
                 name="Hierve el Agua"
                 tagline="Petrified waterfalls and natural infinity pools"
-                description={<>The Instagram photos look incredible: turquoise infinity pools perched on a cliff edge with valley views, flanked by petrified &apos;waterfalls&apos; of mineral deposits. The reality is more nuanced. The pools are real and genuinely beautiful — mineral-rich spring water fills shallow basins on the cliff edge and the views are expansive. But. The road from Mitla is brutal — 28 km of unpaved switchbacks that take nearly an hour in a shared truck. The petrified cascades are smaller than photos suggest (they&apos;re about 12 meters, not the Niagara-scale formations you might imagine). The site gets absolutely packed on weekends. And the community that manages the site has had intermittent conflicts that sometimes close access entirely — check <a href="https://www.oaxaca.travel/en/hierve-el-agua" target="_blank" rel="noopener" className="text-barro underline">current access info</a> before committing to the trip. On a clear weekday with few visitors? It&apos;s magical. On a crowded Sunday after a rattling truck ride? Less so.</>}
+                description={<>The Instagram photos look incredible: turquoise infinity pools perched on a cliff edge with valley views, flanked by petrified &apos;waterfalls&apos; of mineral deposits. The reality is more nuanced. The pools are real and worth seeing — mineral-rich spring water fills shallow basins on the cliff edge and the views are expansive. But. The road from Mitla is brutal — 28 km of unpaved switchbacks that take nearly an hour in a shared truck. The petrified cascades are smaller than photos suggest (they&apos;re about 12 meters, not the Niagara-scale formations you might imagine). The site gets absolutely packed on weekends. And the community that manages the site has had intermittent conflicts that sometimes close access entirely — check <a href="https://www.oaxaca.travel/en/hierve-el-agua" target="_blank" rel="noopener" className="text-barro underline">current access info</a> before committing to the trip. On a clear weekday with few visitors? It&apos;s magical. On a crowded Sunday after a rattling truck ride? Less so.</>}
                 distance="70 km"
                 timeNeeded="Full day"
                 transport="Tour 350 MXN or shared taxi"
                 cost="50 MXN entry"
                 verdict="conditional"
-                verdictNote="The road is genuinely terrible and the round trip eats a full day. On a clear weekday it can be beautiful, but many visitors report feeling underwhelmed given the effort required. If you have 5+ days, sure. If you only have 3-4 days, spend the time in the valley instead."
+                verdictNote="The road is 28 km of unpaved switchbacks and the round trip eats a full day. On a clear weekday it can be beautiful, but many visitors report feeling underwhelmed given the effort required. If you have 5+ days, sure. If you only have 3-4 days, spend the time in the valley instead."
                 accentColor="barro"
               />
             </div>
@@ -312,7 +312,7 @@ export default function DayTripsPage() {
           <TipCard type="skip">
             <strong>Reality check:</strong> Hierve el Agua is the most
             over-recommended day trip from Oaxaca. The petrified cascades are
-            genuinely cool but not life-changing. The &ldquo;infinity
+            interesting up close but not worth a full day. The &ldquo;infinity
             pool&rdquo; is a shallow mineral basin — you sit in it, you don&rsquo;t
             swim. If Instagram photos are your main motivation, know that they&rsquo;re
             shot with wide-angle lenses that make everything look 3x bigger. If
@@ -338,7 +338,7 @@ export default function DayTripsPage() {
                 transport="Colectivo 15 MXN"
                 cost="Free"
                 verdict="conditional"
-                verdictNote="It's the widest tree in the world and it is genuinely impressive in person. But it's a photo stop, not a day trip. Only visit as a quick detour on the way to or from Mitla or Teotitlán. Never go just for this."
+                verdictNote="It's the widest tree in the world and its 42-meter girth is hard to believe until you're standing next to it. But it's a photo stop, not a day trip. Only visit as a quick detour on the way to or from Mitla or Teotitlán. Never go just for this."
                 accentColor="mezcal"
               />
             </div>
@@ -493,7 +493,7 @@ export default function DayTripsPage() {
             morning, San Bartolo afternoon. Day 3 — Teotitlán + mezcal
             palenque. Day 4 — Mitla + El Tule, or just spend the day in the
             city if you&rsquo;re tired. Skip Hierve el Agua unless you have
-            a fifth day and genuinely want to go.
+            a fifth day and the road conditions are confirmed open.
           </TipCard>
         </div>
       </section>

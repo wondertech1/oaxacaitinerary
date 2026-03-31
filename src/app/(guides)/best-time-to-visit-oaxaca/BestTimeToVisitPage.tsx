@@ -126,9 +126,8 @@ export default function BestTimeToVisitPage() {
           <ScrollReveal delay={0.15}>
             <p className="mt-4 text-base text-copal/70 leading-relaxed">
               But weather is only half the story. Oaxaca&apos;s festival calendar is
-              one of the richest in all of the Americas, and timing your trip around
-              one of the major celebrations can transform a great trip into an
-              unforgettable one. Below, we break down every month so you can find
+              packed with major events year-round &mdash; D&iacute;a de los Muertos, Guelaguetza, Noche de R&aacute;banos, and dozens of smaller fiestas &mdash; and timing your trip around
+              one of them adds a layer you can&apos;t get any other way. Below, we break down every month so you can find
               the window that fits your style, budget, and priorities.
             </p>
           </ScrollReveal>
@@ -507,7 +506,7 @@ export default function BestTimeToVisitPage() {
               occasionally start earlier in the day or last longer. Even then,
               full-day washouts are rare. The trade-off is that the valley is
               spectacularly green — the contrast with the burnt-orange colonial
-              architecture is stunning, and the surrounding mountains look like they
+              architecture is sharp enough to photograph itself, and the surrounding mountains look like they
               belong in a Miyazaki film.
             </p>
           </ScrollReveal>

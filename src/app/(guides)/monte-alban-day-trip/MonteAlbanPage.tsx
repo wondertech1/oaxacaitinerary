@@ -59,7 +59,7 @@ const faqs = [
   {
     question: "Is Monte Albán worth visiting?",
     answer:
-      "Yes — if you have any interest in history or archaeology. It's a UNESCO World Heritage Site and one of the earliest planned cities in Mesoamerica. The Zapotecs flattened a mountain ridge to build a civic center for 25,000 people. The scale alone is worth the trip. If ruins aren't your thing, though, you'll enjoy an afternoon in the markets more.",
+      "Yes — if you have any interest in history or archaeology. It's a UNESCO World Heritage Site and among the first deliberately planned urban centers in Mesoamerica, founded around 500 BCE. The Zapotecs flattened a mountain ridge to build a civic center for 25,000 people. The scale alone is worth the trip. If ruins aren't your thing, though, you'll enjoy an afternoon in the markets more.",
   },
   {
     question: "How do you get to Monte Albán from Oaxaca City?",

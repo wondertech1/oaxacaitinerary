@@ -172,9 +172,9 @@ export default function OneDayItineraryPage() {
               <p>
                 Walk north to{" "}
                 <strong>Templo de Santo Domingo de Guzmán</strong>. Free entry.
-                The interior is 400 years of Baroque gold leaf — genuinely
-                one of the most beautiful churches in Mexico. Spend 20 minutes
-                inside.
+                The interior is floor-to-ceiling Baroque gold leaf — 60,000+
+                figures carved over 400 years, covering every surface including
+                the vaulted ceiling. Spend 20 minutes inside.
               </p>
               <p>
                 Then walk the entire{" "}
@@ -226,8 +226,9 @@ export default function OneDayItineraryPage() {
               <ul className="list-none space-y-1.5 ml-0">
                 <li className="flex items-start gap-2">
                   <span className="w-1 h-1 rounded-full bg-barro mt-2 shrink-0" />
-                  <strong>IAGO</strong> (Instituto de Artes Gráficas): World-class
-                  contemporary art in a colonial building. 30 minutes.
+                  <strong>IAGO</strong> (Instituto de Artes Gráficas): Francisco
+                  Toledo&apos;s print and graphic art collection in a restored colonial
+                  house. 30 minutes.
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="w-1 h-1 rounded-full bg-barro mt-2 shrink-0" />

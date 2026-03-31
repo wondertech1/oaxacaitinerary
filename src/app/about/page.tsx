@@ -58,8 +58,8 @@ export default function AboutPage() {
                 <div className="mt-4 space-y-3 text-sm text-copal/70 leading-relaxed">
                   <p>
                     A traveler who keeps coming back to Oaxaca because no other
-                    city in Mexico has this combination: world-class food at
-                    street-stall prices, living indigenous culture that
+                    city in Mexico has this combination: tlayudas, mole negro, and memelas for 40 pesos at
+                    street stalls, living indigenous culture that
                     isn&apos;t performative, and a pace of life that makes you
                     wonder why you ever rush.
                   </p>

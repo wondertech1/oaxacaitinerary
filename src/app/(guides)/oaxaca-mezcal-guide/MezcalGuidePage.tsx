@@ -55,7 +55,7 @@ const bars: BarInfo[] = [
     vibe: "Curated, rare pours, serious collectors",
     price: "Wild agaves from 120 MXN / pour",
     description:
-      "Archivo is where you go after you\u2019ve done In Situ and Mezcaloteca and decided you need to go deeper. Their focus is on wild and semi-wild agaves \u2014 tobaziche, coyote, cuishe, sierra negra \u2014 from producers who make a few hundred liters a year. Some bottles behind the bar don\u2019t have labels. Prices are higher because the agaves are rarer and the production runs smaller, but this is not a tourist markup \u2014 it\u2019s genuinely scarce spirit. The bartenders are passionate and opinionated. Ask them what\u2019s interesting right now.",
+      "Archivo is where you go after you\u2019ve done In Situ and Mezcaloteca and decided you need to go deeper. Their focus is on wild and semi-wild agaves \u2014 tobaziche, coyote, cuishe, sierra negra \u2014 from producers who make a few hundred liters a year. Some bottles behind the bar don\u2019t have labels. Prices are higher because the agaves are rarer and the production runs smaller, but this is not a tourist markup \u2014 these are spirits made in batches of 200\u2013400 liters from agaves that took 12\u201325 years to mature. The bartenders are passionate and opinionated. Ask them what\u2019s interesting right now.",
     bestFor:
       "Experienced drinkers, wild agave exploration, mezcal collectors",
   },
@@ -528,8 +528,7 @@ export default function MezcalGuidePage() {
           <ScrollReveal delay={0.05}>
             <div className="mt-6 text-base text-copal/70 leading-relaxed space-y-4">
               <p>
-                Buying mezcal in Oaxaca is one of the best value propositions in
-                the spirits world. Bottles that retail for $50&ndash;80 USD in
+                Mezcal costs a fraction of export prices when you buy it here. Bottles that retail for $50&ndash;80 USD in
                 the States cost 200&ndash;400 MXN ($12&ndash;24 USD) here. Even
                 rare wild agave mezcals that would be $120+ in Brooklyn are
                 600&ndash;1,000 MXN in a Oaxacan shop. The catch is knowing what

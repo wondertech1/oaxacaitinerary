@@ -311,7 +311,7 @@ const faqs = [
   {
     question: "Is Jalatlaco safe to walk around at night?",
     answer:
-      "Yes. Jalatlaco is one of the safest neighborhoods in Oaxaca City. Streets are well-lit, and the area sees plenty of foot traffic in the evenings from locals and visitors at restaurants and coffee shops. Normal city awareness applies — don't flash valuables and stick to lit streets.",
+      "Yes. Jalatlaco has well-lit streets and steady foot traffic in the evenings from locals and visitors at restaurants and coffee shops. Normal city awareness applies — don't flash valuables and stick to lit streets.",
   },
   {
     question: "Should I book accommodation in advance?",

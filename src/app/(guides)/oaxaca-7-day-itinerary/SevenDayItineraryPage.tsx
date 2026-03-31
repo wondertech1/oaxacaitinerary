@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "Are the artisan villages worth visiting?",
     answer:
-      "Absolutely. Teotitlán del Valle (textiles) is the standout — you'll watch families weave on traditional looms and buy rugs at a fraction of city prices. San Martín Tilcajete (alebrijes) is more touristy but the carved wooden animals are stunning. Both are 30-45 minutes from Oaxaca City.",
+      "Absolutely. Teotitlán del Valle (textiles) is the standout — you'll watch families weave on traditional looms and buy rugs at a fraction of city prices. San Martín Tilcajete (alebrijes) is more touristy but the carved wooden animals are wildly detailed — some pieces take weeks to paint. Both are 30-45 minutes from Oaxaca City.",
   },
   {
     question: "Should I book a cooking class in advance?",
@@ -267,7 +267,7 @@ export default function SevenDayItineraryPage() {
                 <li className="flex items-start gap-2">
                   <span className="w-1 h-1 rounded-full bg-barro mt-2 shrink-0" />
                   <strong>Benito Juárez</strong> (3,000m): More infrastructure,
-                  zip-lines, incredible valley views.{" "}
+                  zip-lines, clear sightlines down to the Oaxaca valley floor.{" "}
                   <strong>100 MXN</strong> by colectivo, 2 hours.
                 </li>
               </ul>
@@ -327,7 +327,7 @@ export default function SevenDayItineraryPage() {
               <TipCard type="tip">
                 <strong>Want to stay overnight?</strong> The villages have
                 community-run cabañas (<strong>300–500 MXN/night</strong>).
-                Simple but clean, with incredible stargazing at 3,200m. If you
+                Simple but clean, with zero light pollution at 3,200m — you can see the Milky Way clearly. If you
                 have time, spending a night transforms the experience.
               </TipCard>
             </TimeBlock>

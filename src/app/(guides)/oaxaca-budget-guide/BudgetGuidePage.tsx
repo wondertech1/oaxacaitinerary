@@ -63,7 +63,7 @@ const faqs = [
   {
     question: "Is Oaxaca expensive for tourists?",
     answer:
-      "No. Oaxaca is one of the most affordable destinations in Mexico. A backpacker can comfortably spend around 780 MXN (~$45 USD) per day, and even a mid-range traveler only needs about 1,200 MXN (~$70 USD) per day for private accommodation, sit-down meals, and activities.",
+      "No. Oaxaca runs cheaper than most popular Mexican destinations — roughly 30\u201340% less than Mexico City or San Miguel de Allende for comparable food and lodging. A backpacker can comfortably spend around 780 MXN (~$45 USD) per day, and even a mid-range traveler only needs about 1,200 MXN (~$70 USD) per day for private accommodation, sit-down meals, and activities.",
   },
   {
     question: "How much money do I need per day in Oaxaca?",
@@ -313,8 +313,8 @@ export default function BudgetGuidePage() {
             <TipCard type="tip">
               The best free activity in Oaxaca: walk to the IAGO gallery
               (Instituto de Artes Gr&aacute;ficas de Oaxaca) on Alcal&aacute;.
-              Founded by Francisco Toledo. World-class contemporary art, always
-              free, never crowded.
+              Founded by Francisco Toledo. Rotating exhibits from Mexican and
+              international printmakers, always free, never crowded.
             </TipCard>
           </ScrollReveal>
         </div>

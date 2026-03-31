@@ -30,7 +30,7 @@ const faqs = [
   {
     question: "Is Hierve el Agua worth the bumpy road?",
     answer:
-      "Yes — with caveats. The petrified waterfalls are genuinely spectacular, and the natural infinity pools with valley views are unforgettable. But the road is rough (45 min unpaved), it gets crowded by noon, and the pools are cold. Go early, bring a swimsuit, and set expectations. It's worth it once.",
+      "Yes — with caveats. The petrified waterfalls are unlike anything else in Mexico, and the natural infinity pools look straight out over the valley floor hundreds of meters below. But the road is rough (45 min unpaved), it gets crowded by noon, and the pools are cold. Go early, bring a swimsuit, and set expectations. It's worth it once.",
   },
   {
     question: "What's the difference between 4 and 5 days?",
@@ -103,7 +103,7 @@ export default function FiveDayItineraryPage() {
                 that makes Oaxaca the culinary capital of Mexico. Day 5 takes
                 you out of the city on the Valles Centrales loop: a circuit
                 through Oaxaca&apos;s surrounding valley that hits four
-                unmissable stops.
+                essential stops.
               </p>
               <p className="text-sm text-copal/50 italic">
                 Short on time?{" "}
@@ -250,8 +250,8 @@ export default function FiveDayItineraryPage() {
               </p>
               <p>
                 <strong>Entry: 10 MXN</strong>. Spend 15 minutes here. It&apos;s
-                a quick stop but genuinely impressive. The tree is so large it
-                looks fake.
+                a quick stop but worth it. The trunk is wider than the church
+                behind it — your brain can&apos;t process the scale.
               </p>
               <TipCard type="tip">
                 <strong>Photo tip:</strong> The tree is hard to photograph due
@@ -292,7 +292,7 @@ export default function FiveDayItineraryPage() {
                 has cascaded over cliffs for thousands of years, leaving behind
                 rock formations that look exactly like frozen waterfalls. At
                 the top: natural infinity pools overlooking the valley. The
-                views are genuinely stunning.
+                views stretch across the entire valley to the Sierra Norte mountains.
               </p>
               <p>
                 <strong>Entry: 50 MXN</strong>. The road is rough — 45 minutes

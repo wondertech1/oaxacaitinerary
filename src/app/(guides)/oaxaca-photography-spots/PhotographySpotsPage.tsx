@@ -19,7 +19,7 @@ const faqs = [
   {
     question: "Do I need a real camera, or is a phone good enough?",
     answer:
-      "A phone is genuinely good enough for everything in this guide. Oaxaca's photogenic qualities come from color, light, and texture — not from subjects that require telephoto reach or extreme low-light capability. Modern phone cameras (iPhone 14+, Pixel 7+, Samsung S23+) handle Oaxaca's bright daylight and colorful scenes beautifully. The one scenario where a dedicated camera helps is inside the markets, where light is low and phone sensors can get noisy. But even there, you can get great shots by bracing against a column and holding steady. Bring a phone, skip the 5kg camera bag, and enjoy walking without neck pain.",
+      "A phone works for everything in this guide. Oaxaca's photogenic qualities come from color, light, and texture — not from subjects that require telephoto reach or extreme low-light capability. Modern phone cameras (iPhone 14+, Pixel 7+, Samsung S23+) handle Oaxaca's bright daylight and colorful scenes beautifully. The one scenario where a dedicated camera helps is inside the markets, where light is low and phone sensors can get noisy. But even there, you can get great shots by bracing against a column and holding steady. Bring a phone, skip the 5kg camera bag, and enjoy walking without neck pain.",
   },
   {
     question: "Can you photograph people at markets and in the streets?",
@@ -130,7 +130,7 @@ export default function PhotographySpotsPage() {
               <PhotoSpotCard
                 name="Santo Domingo Church"
                 category="Architecture"
-                description="The crown jewel of Oaxacan architecture. The baroque facade is covered in ornate stone carvings that catch every photon of morning light, turning from grey to gold as the sun climbs. The interior is equally stunning — gilded walls, painted ceilings — but photography inside is restricted to no-flash only. The real shot is the exterior from the plaza at street level, looking up at the facade with the sky behind."
+                description="The crown jewel of Oaxacan architecture. The baroque facade is covered in ornate stone carvings that catch every photon of morning light, turning from grey to gold as the sun climbs. The interior matches the exterior's intensity — gilded walls, painted ceilings — but photography inside is restricted to no-flash only. The real shot is the exterior from the plaza at street level, looking up at the facade with the sky behind."
                 direction="Macedonio Alcalá at Allende"
                 lightingNote="Morning sun lights the gold facade perfectly"
                 crowdTip="Before 9 AM for empty courtyard"
@@ -143,7 +143,7 @@ export default function PhotographySpotsPage() {
               <PhotoSpotCard
                 name="IAGO Courtyard"
                 category="Architecture"
-                description="The Instituto de Artes Gráficas de Oaxaca occupies a restored colonial house with one of the most photographed courtyards in the city. Stone arcades frame a lush garden, and the diffused light filtering through the arcades creates soft, even illumination that's ideal for both wide shots and detail close-ups. The library upstairs has beautiful windows that frame the courtyard from above."
+                description="The Instituto de Artes Gráficas de Oaxaca occupies a restored colonial house with a courtyard that shows up on every Oaxaca travel blog for a reason. Stone arcades frame a lush garden, and the diffused light filtering through the arcades creates soft, even illumination that's ideal for both wide shots and detail close-ups. The library upstairs has beautiful windows that frame the courtyard from above."
                 direction="Macedonio Alcalá 507"
                 lightingNote="Diffused light through arcades all morning"
                 crowdTip="Rarely crowded"
@@ -236,7 +236,7 @@ export default function PhotographySpotsPage() {
               <PhotoSpotCard
                 name="Mercado 20 de Noviembre — Pasillo de Humo"
                 category="Street Life"
-                description="The 'Smoke Corridor' in the back of Mercado 20 de Noviembre is one of the most dramatic indoor scenes in Mexico. Rows of open charcoal grills fill the narrow aisle with thick smoke, and shafts of light from the high ceiling cut through the haze like spotlights on a stage. The vendors fan their grills, sending columns of smoke upward. It's moody, atmospheric, and almost cinematic without any editing. The meat starts grilling around 8:30 AM — arrive by then to catch the first smoke before the air gets too thick."
+                description="The 'Smoke Corridor' in the back of Mercado 20 de Noviembre looks like a film set — thick charcoal smoke, shafts of overhead light, zero staging required. Rows of open charcoal grills fill the narrow aisle with thick smoke, and shafts of light from the high ceiling cut through the haze like spotlights on a stage. The vendors fan their grills, sending columns of smoke upward. It's moody, atmospheric, and almost cinematic without any editing. The meat starts grilling around 8:30 AM — arrive by then to catch the first smoke before the air gets too thick."
                 direction="Back corridor of the market"
                 lightingNote="Smoke creates natural dramatic lighting"
                 crowdTip="Go by 8:30 AM before the crowds"
@@ -325,7 +325,7 @@ export default function PhotographySpotsPage() {
               <PhotoSpotCard
                 name="Monte Albán Main Plaza"
                 category="Views & Nature"
-                description="The ancient Zapotec capital sits on a flattened mountaintop overlooking the Oaxaca Valley, and the main plaza — a vast, open ceremonial space surrounded by pyramids and platforms — is one of the most dramatic archaeological landscapes in Mexico. The low morning sun creates long shadows across the stone structures, adding depth and drama to what could otherwise look flat. Climb to the top of the South Platform for a panoramic view of the entire site with the valley below. The scale is almost impossible to capture in a single frame — shoot panoramas."
+                description="The ancient Zapotec capital sits on a flattened mountaintop overlooking the Oaxaca Valley, and the main plaza — a vast, open ceremonial space surrounded by pyramids and platforms — opens up into a 300-meter-long ceremonial plaza ringed by pyramids, with the whole Oaxaca Valley spread below. The low morning sun creates long shadows across the stone structures, adding depth and drama to what could otherwise look flat. Climb to the top of the South Platform for a panoramic view of the entire site with the valley below. The scale is almost impossible to capture in a single frame — shoot panoramas."
                 direction="Top of the main platform facing south"
                 lightingNote="Low morning sun creates long shadows on ruins"
                 crowdTip="First colectivo at 8:30 AM gets you there before tour buses"

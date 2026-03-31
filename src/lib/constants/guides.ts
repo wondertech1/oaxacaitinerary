@@ -1,6 +1,3 @@
-// All images sourced from Unsplash (https://unsplash.com)
-// Free to use under the Unsplash License: https://unsplash.com/license
-
 export interface GuideLink {
   label: string;
   href: string;
@@ -19,7 +16,7 @@ export const guideLinks: GuideLink[] = [
     description: "The essential sprint — markets, mezcal, and mole in a single day.",
     category: "planning",
     accentColor: "barro",
-    image: "https://images.unsplash.com/photo-1562215589-b6d0ed3cfec8?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/1-day-itinerary.jpg",
     imageAlt: "A man walking down a sunlit Oaxaca street lined with colonial buildings",
   },
   {
@@ -28,7 +25,7 @@ export const guideLinks: GuideLink[] = [
     description: "A perfect weekend with food, museums, and the Jalatlaco neighborhood.",
     category: "planning",
     accentColor: "anil",
-    image: "https://images.unsplash.com/photo-1643584872305-9dffde0d7a0f?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/2-day-itinerary.jpg",
     imageAlt: "Colorful paper streamers decorating a street light in Oaxaca",
   },
   {
@@ -37,7 +34,7 @@ export const guideLinks: GuideLink[] = [
     description: "The long weekend sweet spot — add Monte Albán and the real local market.",
     category: "planning",
     accentColor: "nopal",
-    image: "https://images.unsplash.com/photo-1572999490988-4bf6bc62da0d?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/3-day-itinerary.jpg",
     imageAlt: "Red and white painted wall in the streets of Oaxaca de Juárez",
   },
   {
@@ -47,7 +44,7 @@ export const guideLinks: GuideLink[] = [
     description: "Day-by-day plan with the right markets, the right mole, and ruins without crowds.",
     category: "planning",
     accentColor: "barro",
-    image: "https://images.unsplash.com/photo-1641511255914-a30e17ef2071?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/4-day-itinerary.jpg",
     imageAlt: "Panoramic view of Oaxaca City with mountains in the distance",
   },
   {
@@ -57,7 +54,7 @@ export const guideLinks: GuideLink[] = [
     description: "The ideal trip — city + Valles Centrales loop with Mitla and Hierve el Agua.",
     category: "planning",
     accentColor: "mezcal",
-    image: "https://images.unsplash.com/photo-1633666681329-e9fe8740c15c?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/5-day-itinerary.jpg",
     imageAlt: "Natural mineral formations at Hierve el Agua overlooking the Oaxaca Valley",
   },
   {
@@ -66,7 +63,7 @@ export const guideLinks: GuideLink[] = [
     description: "Full immersion — Sierra Norte hiking, artisan villages, and a cooking class.",
     category: "planning",
     accentColor: "barro",
-    image: "https://images.unsplash.com/photo-1562869929-3435690bb969?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/7-day-itinerary.jpg",
     imageAlt: "Mountain range with clouds rolling over the peaks",
   },
   {
@@ -75,7 +72,7 @@ export const guideLinks: GuideLink[] = [
     description: "Four neighborhoods compared with real prices, walkability scores, and honest vibes.",
     category: "planning",
     accentColor: "anil",
-    image: "https://images.unsplash.com/photo-1759255263134-dd8367a0a88c?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/where-to-stay.jpg",
     imageAlt: "A large colonial building with a clock tower in Oaxaca",
   },
   {
@@ -84,7 +81,7 @@ export const guideLinks: GuideLink[] = [
     description: "12 things to eat and exactly where to find them, with prices in MXN.",
     category: "food",
     accentColor: "barro",
-    image: "https://images.unsplash.com/photo-1492760864391-753aaae87234?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/street-food.jpg",
     imageAlt: "Mexican street tacos with fresh ingredients on a wooden board",
   },
   {
@@ -93,7 +90,7 @@ export const guideLinks: GuideLink[] = [
     description: "Is it actually worth a half-day? An honest verdict with transport costs.",
     category: "day-trips",
     accentColor: "nopal",
-    image: "https://images.unsplash.com/photo-1650158474392-4af97d0e148e?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/monte-alban.jpg",
     imageAlt: "Ancient stone structure under a bright blue sky",
   },
   {
@@ -102,7 +99,7 @@ export const guideLinks: GuideLink[] = [
     description: "Realistic daily costs for 2026 across three budget tiers.",
     category: "planning",
     accentColor: "mezcal",
-    image: "https://images.unsplash.com/photo-1627289110726-0f048ada5497?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/budget-guide.jpg",
     imageAlt: "A pile of silver Mexican peso coins",
   },
   {
@@ -111,7 +108,7 @@ export const guideLinks: GuideLink[] = [
     description: "Walking, taxis, DiDi, colectivos — how to move without a car.",
     category: "planning",
     accentColor: "anil",
-    image: "https://images.unsplash.com/photo-1562657655-41d460951f7f?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/getting-around.jpg",
     imageAlt: "People walking on a sunny street under a clear blue sky",
   },
   {
@@ -120,7 +117,7 @@ export const guideLinks: GuideLink[] = [
     description: "Stall-by-stall guide to Oaxaca's legendary smoke-filled market.",
     category: "food",
     accentColor: "nopal",
-    image: "https://images.unsplash.com/photo-1496310646944-3203203f09bb?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/mercado-guide.jpg",
     imageAlt: "Bustling scene at an Oaxacan market with vendors and colorful goods",
   },
   {
@@ -129,7 +126,7 @@ export const guideLinks: GuideLink[] = [
     description: "Mezcal 101: what to drink, where to drink it, and which distilleries to visit.",
     category: "food",
     accentColor: "mezcal",
-    image: "https://images.unsplash.com/photo-1632225226406-f5f27f52aa6c?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/mezcal-guide.jpg",
     imageAlt: "A bottle of artisanal mezcal sitting on a bed of gravel",
   },
   {
@@ -138,7 +135,7 @@ export const guideLinks: GuideLink[] = [
     description: "Hierve el Agua, Mitla, El Tule, and textile villages — with honest verdicts.",
     category: "day-trips",
     accentColor: "nopal",
-    image: "https://images.unsplash.com/photo-1578940421555-2dcc68d56e50?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/day-trips.jpg",
     imageAlt: "Tall petrified rock formation against the sky near Hierve el Agua",
   },
   {
@@ -147,7 +144,7 @@ export const guideLinks: GuideLink[] = [
     description: "Cooking classes, artisan workshops, and festivals worth planning around.",
     category: "culture",
     accentColor: "anil",
-    image: "https://images.unsplash.com/photo-1566020589263-891b809ebf4b?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/cultural-experiences.jpg",
     imageAlt: "Multicolored handwoven textiles displayed in an Oaxacan market",
   },
   {
@@ -156,7 +153,7 @@ export const guideLinks: GuideLink[] = [
     description: "Month-by-month breakdown of weather, crowds, prices, and festivals.",
     category: "planning",
     accentColor: "barro",
-    image: "https://images.unsplash.com/photo-1641511256207-3e3ced99393e?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/best-time-to-visit.jpg",
     imageAlt: "Baroque church with twin towers and dome against a clear sky",
   },
   {
@@ -165,7 +162,7 @@ export const guideLinks: GuideLink[] = [
     description: "Neighborhood safety, scams to avoid, health tips, and emergency essentials.",
     category: "planning",
     accentColor: "nopal",
-    image: "https://images.unsplash.com/photo-1562869929-58a654dd235c?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/safety-tips.jpg",
     imageAlt: "A large colonial building with a dome in Oaxaca",
   },
   {
@@ -174,7 +171,7 @@ export const guideLinks: GuideLink[] = [
     description: "Mezcalerías, live music, rooftop bars, and where locals go after dark.",
     category: "culture",
     accentColor: "anil",
-    image: "https://images.unsplash.com/photo-1732539408620-00e3d194ae5b?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/nightlife-guide.jpg",
     imageAlt: "Dimly lit bar interior with shelves of bottles and warm neon lighting",
   },
   {
@@ -183,7 +180,7 @@ export const guideLinks: GuideLink[] = [
     description: "12 best photo locations with optimal times, directions, and lighting tips.",
     category: "culture",
     accentColor: "mezcal",
-    image: "https://images.unsplash.com/photo-1754141897824-c2f437d87c36?w=1200&q=80&auto=format&fit=crop",
+    image: "/images/photography-spots.jpg",
     imageAlt: "A white and blue church with a vivid blue roof in Oaxaca",
   },
 ];

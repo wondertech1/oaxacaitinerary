@@ -75,7 +75,7 @@ const faqs = [
   {
     question: "Is Oaxaca safe for tourists in 2026?",
     answer:
-      "Yes. Oaxaca City is one of the safest tourist destinations in Mexico. The Centro Hist\u00f3rico, Jalatlaco, and Reforma neighborhoods are well-patrolled and walkable day and night. Violent crime against tourists is extremely rare. The U.S. State Department rates Oaxaca state at Level 2 (Exercise Increased Caution), the same level as the UK and France. Use the same common sense you would in any mid-sized city \u2014 don\u2019t flash expensive jewelry, be aware of your surroundings at night, and stick to well-lit areas.",
+      "Yes. Oaxaca City has a well-earned reputation for safety among travelers. The Centro Hist\u00f3rico, Jalatlaco, and Reforma neighborhoods are well-patrolled and walkable day and night. Violent crime against tourists is extremely rare. The U.S. State Department rates Oaxaca state at Level 2 (Exercise Increased Caution), the same level as the UK and France. Use the same common sense you would in any mid-sized city \u2014 don\u2019t flash expensive jewelry, be aware of your surroundings at night, and stick to well-lit areas.",
   },
   {
     question: "Can I walk around Oaxaca at night?",
@@ -151,8 +151,8 @@ export default function SafetyTipsPage() {
 
           <ScrollReveal delay={0.1}>
             <TipCard type="tip">
-              Oaxaca consistently ranks as one of the safest cities in Mexico for
-              foreign visitors. The <a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html" target="_blank" rel="noopener" className="text-barro underline">U.S. State Department</a> rates Oaxaca state at
+              Oaxaca&apos;s Centro and tourist neighborhoods see very low crime rates
+              compared to other Mexican cities of similar size. The <a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html" target="_blank" rel="noopener" className="text-barro underline">U.S. State Department</a> rates Oaxaca state at
               Level 2 (&ldquo;Exercise Increased Caution&rdquo;) &mdash; the
               same advisory level as France, the UK, and Germany.
             </TipCard>

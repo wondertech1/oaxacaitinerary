@@ -13,7 +13,7 @@ const faqs = [
   {
     question: "Are cooking classes in Oaxaca worth the money?",
     answer:
-      "Yes, unequivocally. A good Oaxacan cooking class is not a tourist demonstration — it starts at the market where you learn to identify chiles, negotiate with vendors, and buy ingredients the way locals do. Then you cook 3-5 dishes from scratch, eat everything, and leave with recipes that actually work at home. At 1,500-2,500 MXN ($85-140 USD) for 4-6 hours including a market tour and a full meal, it is one of the best value cultural experiences in Mexico. The three classes listed in this guide all include market visits and are taught by Oaxacan cooks, not expat chefs.",
+      "Yes, unequivocally. A good Oaxacan cooking class is not a tourist demonstration — it starts at the market where you learn to identify chiles, negotiate with vendors, and buy ingredients the way locals do. Then you cook 3-5 dishes from scratch, eat everything, and leave with recipes that actually work at home. At 1,500-2,500 MXN ($85-140 USD) for 4-6 hours including a market tour and a full meal, it is hard to beat that price for a full day of hands-on cooking and eating. The three classes listed in this guide all include market visits and are taught by Oaxacan cooks, not expat chefs.",
   },
   {
     question: "What are the best artisan villages to visit near Oaxaca?",
@@ -239,7 +239,7 @@ export default function CulturalExperiencesPage() {
               <ExperienceCard
                 name="Barro Negro in San Bartolo Coyotepec"
                 type="Workshop"
-                description="The village that invented barro negro &mdash; Oaxaca&apos;s signature black pottery. The technique was perfected by Do&ntilde;a Rosa Real de Nieto in the 1950s, and her descendants still run the main workshop on the town square. The clay starts grey and turns jet black through a reduction firing process (oxygen-starved kiln, no glaze, no paint). You can watch potters shape pieces by hand on a rotating base (no potter&apos;s wheel &mdash; they spin the base with their feet), and the burnishing process that creates the metallic sheen is genuinely mesmerizing. Several workshops offer free demonstrations. Buy directly from the artisans &mdash; identical pieces sell for 3-4 times more in Oaxaca City shops."
+                description="The village that invented barro negro &mdash; Oaxaca&apos;s signature black pottery. The technique was perfected by Do&ntilde;a Rosa Real de Nieto in the 1950s, and her descendants still run the main workshop on the town square. The clay starts grey and turns jet black through a reduction firing process (oxygen-starved kiln, no glaze, no paint). You can watch potters shape pieces by hand on a rotating base (no potter&apos;s wheel &mdash; they spin the base with their feet), and the burnishing process that creates the metallic sheen is hard to look away from. Several workshops offer free demonstrations. Buy directly from the artisans &mdash; identical pieces sell for 3-4 times more in Oaxaca City shops."
                 price="Free demonstrations"
                 duration="2-3 hours"
                 booking="Show up"
@@ -404,7 +404,7 @@ export default function CulturalExperiencesPage() {
                 <p className="mt-3 text-sm text-copal/70 leading-relaxed">
                   This is the real thing, not the Canc&uacute;n resort version
                   with face paint and margaritas. In Oaxaca, D&iacute;a de los
-                  Muertos is genuinely sacred. Families build elaborate altars
+                  Muertos is still a deeply religious observance. Families build elaborate altars
                   (ofrendas) for their dead, cemeteries are lit with thousands
                   of candles, and the rituals have a solemnity that is
                   profoundly moving even as a visitor. The main event is the
@@ -446,8 +446,8 @@ export default function CulturalExperiencesPage() {
                 </div>
                 <p className="mt-3 text-sm text-copal/70 leading-relaxed">
                   Yes, it is a radish carving competition. Yes, it sounds
-                  absurd. And yes, it is genuinely one of the most charming
-                  cultural events in Mexico. Every December 23, artisans
+                  absurd. And yes, it draws thousands of spectators who
+                  crowd the Z&oacute;calo to see what the carvers came up with. Every December 23, artisans
                   compete in the Z&oacute;calo to create the most elaborate
                   sculptures from giant radishes &mdash; nativity scenes,
                   Guelaguetza dancers, historical tableaux, mythological

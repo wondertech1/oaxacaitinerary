@@ -14,7 +14,7 @@ import ItineraryPicker from "@/components/shared/ItineraryPicker";
 const faqs = [
   { question: "Is 4 days enough for Oaxaca City?", answer: "Yes — 4 days is the sweet spot. You'll cover the main sights, eat extraordinarily well, visit Monte Albán, and still have time to wander. A 5th day is nice for a day trip to Hierve el Agua or Mitla, but not essential." },
   { question: "How much does 4 days in Oaxaca cost?", answer: "Budget travelers spend $40–55 USD/day (hostels, street food, colectivos). Mid-range is $60–90/day (boutique hotel, restaurants, taxis). Comfort is $100–150/day (nice hotel, tasting menus, tours). Oaxaca is one of Mexico's best-value destinations." },
-  { question: "Is Oaxaca City safe for tourists?", answer: "Very safe. Centro Histórico and Jalatlaco are walkable at night. Normal precautions apply — don't flash expensive gear, use official taxis or DiDi. It's considered one of the safest cities in Mexico for visitors." },
+  { question: "Is Oaxaca City safe for tourists?", answer: "Very safe. Centro Histórico and Jalatlaco are walkable at night. Normal precautions apply — don't flash expensive gear, use official taxis or DiDi. The Centro Histórico and Jalatlaco are walkable well after dark, and violent crime against tourists here is extremely rare compared to beach resort cities like Cancún or Acapulco." },
   { question: "What's the best time of year to visit Oaxaca?", answer: "October–March for dry weather (18–28°C). July for Guelaguetza festival. Late October for Día de los Muertos. Avoid June–August if you dislike afternoon rain, though mornings are usually clear." },
   { question: "Do I need to speak Spanish in Oaxaca?", answer: "Basic Spanish helps a lot, especially in markets and colectivos. Most restaurants in Centro have some English, but street vendors and colectivo drivers rarely do. Learn key food words and you'll be fine." },
 ];
@@ -116,8 +116,7 @@ export default function FourDayItineraryPage() {
               </p>
               <p>
                 <strong>Templo de Santo Domingo + Jardín Etnobotánico:</strong>{" "}
-                The church is free and genuinely stunning — 400 years of gold
-                leaf and Baroque excess. The ethnobotanical garden costs{" "}
+                The church is free — the interior is floor-to-ceiling gilded stucco from the 1600s, every surface carved and covered in gold leaf. It borders on excessive, which is the point. The ethnobotanical garden costs{" "}
                 <strong>30 MXN</strong> and requires a guided tour (tours run
                 on schedule — check at the entrance). Worth it. The guides are
                 excellent and the garden explains the connection between
@@ -218,7 +217,7 @@ export default function FourDayItineraryPage() {
                 <strong><a href="https://www.iago.mx" target="_blank" rel="noopener" className="text-barro underline">IAGO</a></strong> (Instituto de Artes Gráficas de Oaxaca):
                 Free. One of the best free museums in Mexico, in a gorgeous
                 colonial building. Rotating contemporary art exhibitions plus a
-                world-class graphic arts library.
+                graphic arts library with over 60,000 prints and books — one of the largest in Latin America.
               </p>
               <p>
                 <strong>Museo Textil de Oaxaca:</strong> Free. Small but
@@ -244,8 +243,7 @@ export default function FourDayItineraryPage() {
                 <strong>mole negro</strong> — this is the dish Oaxaca is famous
                 for. It takes 3 days to make and uses 30+ ingredients including
                 chocolate. <strong>220–280 MXN</strong> for a plate. Yes,
-                it&apos;s tourist-priced. It&apos;s also genuinely one of the
-                best restaurants in the city.
+                it&apos;s tourist-priced. But the mole negro here is consistently the one locals recommend to visitors, and for good reason.
               </p>
               <TipCard type="tip">
                 <strong>Cheaper alternative:</strong> Zandunga (García Vigil
@@ -461,7 +459,7 @@ export default function FourDayItineraryPage() {
               {
                 title: "Safety",
                 color: "border-nopal",
-                text: <>Oaxaca City is one of the safest cities in Mexico for tourists. Normal precautions — don&apos;t flash expensive gear, stick to lit streets at night. Centro and Jalatlaco are very safe on foot. <Link href="/oaxaca-safety-tips" className="text-barro underline">Read our full safety guide&nbsp;&rarr;</Link></>,
+                text: <>Oaxaca City has a much lower crime rate than most Mexican tourist destinations. Normal precautions — don&apos;t flash expensive gear, stick to lit streets at night. Centro and Jalatlaco are very safe on foot. <Link href="/oaxaca-safety-tips" className="text-barro underline">Read our full safety guide&nbsp;&rarr;</Link></>,
               },
               {
                 title: "Spanish Phrases",
